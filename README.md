@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Ronaldo94-GITHUB
 - 👀 Estou interessado em entrar mais na área Tecnologias e projetos.
-- 🌱 Estou aprendendo mais sobre GitHub e outras coisas.
+- 🌱 Estou aprendendo mais sobre GitHub, IA , e Análise de Dados.
 - 💞️ Estou procurando colaborar com as pessoas das minhas aprendizagens.
 - 📫 ronaldosabino94@hotmail.com
 - 😄 Pronomes: Fenomeno
