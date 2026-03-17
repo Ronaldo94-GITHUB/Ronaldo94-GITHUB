@@ -17,12 +17,6 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo94-GITHUB&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ronaldo94-GITHUB&theme=radical)
-
-
-
-
-
 
 ---
 
