@@ -16,9 +16,8 @@
 - Análise de Dados (Pandas, NumPy, Power BI)  
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo94-GITHUB&layout=compact&theme=radical)
 
-## 📊 Estatísticas do GitHub
-![Ronaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronaldo94-GITHUB&show_icons=true&theme=radical)
 
 ---
 
