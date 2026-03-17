@@ -28,7 +28,7 @@
 
 ## 📌 Projetos em destaque
 - [Projeto de Análise de Dados](https://github.com/Ronaldo94-GITHUB/seu-projeto)  
-- [Aplicação com IA](https://github.com/Ronaldo94-GITHUB/seu-projeto)  
+- [Aplicação com IA](https://github.com/Ronaldo94-GITHUB/calculadora-emissao-de-carbono)  
 
 *(Adicione aqui os links dos seus repositórios mais importantes!)*
 
