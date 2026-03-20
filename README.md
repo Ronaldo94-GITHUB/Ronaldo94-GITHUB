@@ -179,29 +179,6 @@
 <br/>
 
 ---
-
-<h2>📊 Estatísticas do GitHub</h2>
-
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://meuperfil-omega.vercel.app/api?username=Rogerio5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    alt="Top Languages"
-    height="200"
-    style="padding-left: 10px;"
-    src="https://meuperfil-omega.vercel.app/api/top-langs/?username=Rogerio5&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
-<br clear="left" /> 
-
----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo94-GITHUB&layout=compact&theme=radical)
 
 ---
