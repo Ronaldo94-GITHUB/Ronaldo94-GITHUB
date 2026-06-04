@@ -185,11 +185,6 @@ Busco oportunidades como:
 <br/>
 
 ---
-## 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo94-GITHUB&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-link)
