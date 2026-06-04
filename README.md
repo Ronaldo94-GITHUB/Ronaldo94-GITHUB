@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Ronaldo 👨‍💻
 
 ---
-<img width="1254" height="1254" alt="ChatGPT Image 4 de jun  de 2026, 15_35_12" src="https://github.com/user-attachments/assets/d97ea0f5-5027-4912-9e07-c1d8e95444da" />
+<img width="400" height="400" alt="github-avatar-400x400" src="https://github.com/user-attachments/assets/d642c2f3-2224-4f67-8ebc-c939a6fb1cfd" />
 
 ---
 
