@@ -194,7 +194,31 @@ Busco oportunidades como:
 
 ## 📌 Projetos em destaque
 - [Projeto de Análise de Dados](https://github.com/Ronaldo94-GITHUB/seu-projeto)  
-- [Aplicação com IA](https://github.com/Ronaldo94-GITHUB/calculadora-emissao-de-carbono)  
+- [Aplicação com IA](https://github.com/Ronaldo94-GITHUB/calculadora-emissao-de-carbono)
+
+## 📌 Projetos em destaque
+
+### 🚗 Porsche Sales Dashboard
+Dashboard interativo em HTML, CSS e JavaScript para análise de vendas de veículos Porsche, com filtros por modelo, ano, cidade e forma de pagamento.
+
+**Tecnologias:** HTML, CSS, JavaScript, GitHub Pages  
+**Destaques:** filtros dinâmicos, KPIs, ranking por cidade e análise visual dos dados.
+
+---
+
+### 🤖 BankPy AI Copilot
+Aplicação com IA para simular um assistente financeiro inteligente, utilizando Python e integração com modelo generativo.
+
+**Tecnologias:** Python, IA, Streamlit, GitHub  
+**Destaques:** análise de dados financeiros, chatbot e respostas personalizadas.
+
+---
+
+### ☁️ Farmácia Virtual AWS
+Projeto de arquitetura em nuvem para uma farmácia fictícia usando conceitos de AWS.
+
+**Tecnologias:** AWS, Markdown, Arquitetura Cloud  
+**Destaques:** desenho de solução, serviços cloud e documentação técnica. 
 
 *(Adicione aqui os links dos seus repositórios mais importantes!)*
 
