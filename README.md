@@ -212,7 +212,6 @@ Projeto de arquitetura em nuvem para uma farmácia fictícia usando conceitos de
 **Tecnologias:** AWS, Markdown, Arquitetura Cloud  
 **Destaques:** desenho de solução, serviços cloud e documentação técnica. 
 
-*(Adicione aqui os links dos seus repositórios mais importantes!)*
 
 ---
 
