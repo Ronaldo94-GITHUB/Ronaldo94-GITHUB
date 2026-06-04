@@ -1,12 +1,18 @@
 # 👋 Olá, eu sou o Ronaldo 👨‍💻
 
-- 🔭 Explorando **Tecnologias e Projetos**
-- 🌱 Atualmente aprendendo **GitHub, Inteligência Artificial e Análise de Dados**
-- 🤝 Buscando colaborar em projetos para aplicar e expandir meus conhecimentos
-- 📫 Contato: **ronaldosabino94@hotmail.com**
-- 😄 Pronomes: **Fenomeno**
-- ⚡ Curiosidades: Amo estudar, jogar videogame e praticar exercícios
+## 👨‍💻 Sobre mim
 
+Tenho experiência na área de Qualidade e Processos Industriais, atuando com análise de indicadores, melhoria contínua e padronização.
+
+Hoje estou direcionando minha carreira para tecnologia, unindo minha visão de qualidade, processos e dados com desenvolvimento de software, IA e soluções digitais.
+
+Busco oportunidades como:
+- Desenvolvedor Júnior
+- Analista de Dados Júnior
+- Analista de BI Júnior
+- QA Júnior
+- Product Owner Júnior
+- Estágio ou Trainee em Tecnologia
 ---
 
 ## 🤖 Linguagens e Tecnologias
