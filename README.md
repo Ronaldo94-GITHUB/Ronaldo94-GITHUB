@@ -187,8 +187,6 @@ Busco oportunidades como:
 ---
 ## 📊 Estatísticas do GitHub
 
-![Ronaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldo94-GITHUB&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo94-GITHUB&layout=compact&theme=tokyonight)
 
 ---
