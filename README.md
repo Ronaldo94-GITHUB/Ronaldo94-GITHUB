@@ -193,8 +193,8 @@ Busco oportunidades como:
 ---
 
 ## 📌 Projetos em destaque
-- [Projeto porsche sales dashboard](https://github.com/Ronaldo94-GITHUB/dashboard_porsche_sales/seu-projeto)  
-- [Farmacia virtual AWS](https://github.com/Ronaldo94-GITHUB/calculadora-emissao-de-carbono)
+- [Projeto porsche sales dashboard](https://github.com/Ronaldo94-GITHUB/dashboard_porsche_sales)  
+- [Farmacia virtual AWS](https://github.com/Ronaldo94-GITHUB/farmacia-virtual-AWS)
 
 ## 📌 Projetos em destaque
 
