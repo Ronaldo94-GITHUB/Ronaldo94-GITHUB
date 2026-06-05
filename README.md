@@ -11,13 +11,6 @@ Tenho experiência na área de Qualidade e Processos Industriais, atuando com an
 
 Hoje estou direcionando minha carreira para tecnologia, unindo minha visão de qualidade, processos e dados com desenvolvimento de software, IA e soluções digitais.
 
-Busco oportunidades como:
-- Desenvolvedor Júnior
-- Analista de Dados Júnior
-- Analista de BI Júnior
-- QA Júnior
-- Product Owner Júnior
-- Estágio ou Trainee em Tecnologia
 ---
 
 ## 🤖 Linguagens e Tecnologias
