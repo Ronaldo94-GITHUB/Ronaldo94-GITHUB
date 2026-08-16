@@ -7,7 +7,32 @@
 
 ## 👨‍💻 Sobre mim
 
-AI & ML Engineer | GenAI, RAG, Agents, MLOps, Python, FastAPI, PostgreSQL, AWS & OCI ou Engenharia de IA & Machine Learning | GenAI, RAG, Agentes, MLOps, Python, FastAPI, PostgreSQL, AWS e OCI
+# 👋 Olá, eu sou Ronaldo
+
+💻 **AI & ML Engineer | GenAI, RAG, Agents, MLOps, Python, FastAPI, PostgreSQL, AWS & OCI**
+
+Sou profissional em transição e evolução para Engenharia de IA, Machine Learning e Dados, com foco em construção de soluções completas e aplicadas.
+
+Atualmente desenvolvo projetos com:
+- Inteligência Artificial Generativa
+- RAG e sistemas com agentes
+- Machine Learning e MLOps
+- FastAPI e APIs de produção
+- PostgreSQL e bancos vetoriais
+- Docker e GitHub Actions
+- AWS e OCI
+- Observabilidade, governança e deploy
+
+## 🚀 Projetos em destaque
+
+### Credit Card Fraud Detection
+Plataforma de detecção de fraudes com XGBoost, FastAPI, PostgreSQL, React, SHAP, CI/CD, drift monitoring, Ground Truth, Champion/Challenger e Fraud Operations.
+
+### INNA Financial Coach AI
+Plataforma de IA com agentes, RAG, memória, PostgreSQL/pgvector, FastAPI, observabilidade e múltiplos módulos inteligentes.
+
+### Suite ATS de Carreira
+Sistema completo com frontend, backend, PostgreSQL, autenticação, fluxo de clientes e automação de processos.
 ---
 
 ## 🤖 Linguagens e Tecnologias
