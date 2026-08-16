@@ -32,8 +32,8 @@ Plataforma de detecção de fraudes com XGBoost, FastAPI, PostgreSQL, React, SHA
 Plataforma de IA com agentes, RAG, memória, PostgreSQL/pgvector, FastAPI, observabilidade e múltiplos módulos inteligentes.
 
 ### Suite ATS de Carreira
-
 Sistema completo com frontend, backend, PostgreSQL, autenticação, fluxo de clientes e automação de processos.
+
 ---
 
 ## 🤖 Linguagens e Tecnologias
