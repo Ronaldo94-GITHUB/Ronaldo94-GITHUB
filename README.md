@@ -7,10 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Tenho experiência na área de Qualidade e Processos Industriais, atuando com análise de indicadores, melhoria contínua e padronização.
-
-Hoje estou direcionando minha carreira para tecnologia, unindo minha visão de qualidade, processos e dados com desenvolvimento de software, IA e soluções digitais.
-
+AI & ML Engineer | GenAI, RAG, Agents, MLOps, Python, FastAPI, PostgreSQL, AWS & OCI ou Engenharia de IA & Machine Learning | GenAI, RAG, Agentes, MLOps, Python, FastAPI, PostgreSQL, AWS e OCI
 ---
 
 ## 🤖 Linguagens e Tecnologias
