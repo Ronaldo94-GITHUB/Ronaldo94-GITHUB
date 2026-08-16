@@ -193,6 +193,16 @@ AI & ML Engineer | GenAI, RAG, Agents, MLOps, Python, FastAPI, PostgreSQL, AWS &
 
 ## 📌 Projetos em destaque
 
+## Suite_ATS_de_Carreira
+produto real com backend, frontend, pagamentos/fluxo e operação
+
+---
+
+## inna-financial-coach-ai
+IA generativa, agentes, RAG
+
+---
+
 ### Credit Card Fraud Detection — Production ML/MLOps System
 redit Card Fraud Detection — ML/MLOps Platform
 Plataforma antifraude com XGBoost, FastAPI, PostgreSQL, React e Docker. Implementação de CI/CD, monitoramento de drift, SHAP, Ground Truth, Champion/Challenger, Continuous Evaluation, Feature Contracts, Fraud Operations e retraining governado. Modelo com 83,78% de recall, 83,11% de F2 e 96,69% de ROC-AUC.
